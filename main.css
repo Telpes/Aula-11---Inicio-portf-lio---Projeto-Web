@@ -1,8 +1,8 @@
 body {
     background-color: #454d6b;
     color: aliceblue;
-    padding: 0%;
-    margin: 0%;
+    padding: 0;
+    margin: 0;
 }
 
 #divTelaCheia {
@@ -12,6 +12,6 @@ body {
     align-items: center;
 }
 
-input[type="checbox"] {
+input[type="checkbox"] {
     border: #454d6b 1px solid;
 }
